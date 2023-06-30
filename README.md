@@ -1,6 +1,6 @@
 # Food Commerce GPT
 
-Bot de atendimento para o Food Commerce utilizando modelo GPT da OpenAI. Ele foi desenvolvido para o conteúdo da [Master Class #013](https://youtube.com/live/lCR7Ssw0v-k) da [Dev Samurai](https://devsamurai.com.br).
+Bot de atendimento para o Food Commerce utilizando modelo GPT da OpenAI. Ele foi desenvolvido com [Dev Samurai](https://devsamurai.com.br).
 
 ## Como funciona?
 
