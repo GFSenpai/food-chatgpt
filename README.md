@@ -717,16 +717,3 @@ async function start(client: Whatsapp) {
     redis.set(customerKey, JSON.stringify(customerChat))
   })
 }
-```
-
-## Conclusão
-
-Neste tutorial, você aprendeu como criar um chatbot para WhatsApp usando o OpenAI e o Venom Bot. Você também aprendeu como usar o Redis para armazenar o histórico de conversas e o resumo do pedido.
-
-Como falamos, isso pode ser usado para qualquer tipo de negócio, desde que você tenha um sistema de pedidos e um sistema de atendimento ao cliente.
-
-Espero que tenha gostado 🧡
-
--- Felipe Fontoura, @DevSamurai
-
-PS: Se você curtiu esse conteúdo, vai curtir também minha newsletter, inscreva-se em https://st.devsamurai.com.br/f7tvr6rx/index.html
