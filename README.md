@@ -1,3 +1,4 @@
+# Projeto ainda em desenvolvimento
 # Food Commerce GPT
 
 Bot de atendimento para o Food Commerce utilizando modelo GPT da OpenAI. Ele foi desenvolvido com [Dev Samurai](https://devsamurai.com.br).
